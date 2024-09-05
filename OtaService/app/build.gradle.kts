@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.tuna.test"
+    namespace = "com.tuna.otaservice"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.tuna.test"
+        applicationId = "com.tuna.otaservice"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
